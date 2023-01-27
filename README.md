@@ -1,5 +1,5 @@
 # Windows10 Activator
-easy way to activate windows10 without using a key
+Easy way to activate windows10 without using a key
 
 # Supported products:
 - Windows 10 Home
