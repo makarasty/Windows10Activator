@@ -1,5 +1,5 @@
 # Windows10 Activator
-Простой .bat файл для активации виндовс
+easy way to activate windows10 without using a key
 
 # Supported products:
 - Windows 10 Home
